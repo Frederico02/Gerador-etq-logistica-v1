@@ -1,3 +1,9 @@
+/*            Resete de Spool local SAP - v2      */
+/*		Gupo Multi 20/04/2023            */
+/*	Frederico Almeida - Analista de Suporte PL */
+
+
+
 import socket
 import openpyxl
 
